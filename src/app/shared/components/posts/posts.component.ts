@@ -22,7 +22,7 @@ export class PostsComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.getApiData();
+    // this.getApiData();
   }
 
   getApiData() {
